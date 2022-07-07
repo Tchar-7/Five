@@ -17,10 +17,10 @@
 		8262C1562876843100276626 /* UserCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8262C1552876843100276626 /* UserCardView.swift */; };
 		8262C15B2876945B00276626 /* DataLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8262C1592876945B00276626 /* DataLoader.swift */; };
 		8262C15C2876945B00276626 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8262C15A2876945B00276626 /* Person.swift */; };
-		8262C15E2876971300276626 /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8262C15D2876971300276626 /* List.swift */; };
 		8262C16128769B2500276626 /* theOlds.json in Resources */ = {isa = PBXBuildFile; fileRef = 8262C16028769B2500276626 /* theOlds.json */; };
 		8262C16428769B9700276626 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8262C16328769B9700276626 /* MapView.swift */; };
 		8262C1662876A04D00276626 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8262C1652876A04D00276626 /* CircleImage.swift */; };
+		8262C16828771AF200276626 /* UserListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8262C16728771AF200276626 /* UserListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,10 +54,10 @@
 		8262C1552876843100276626 /* UserCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCardView.swift; sourceTree = "<group>"; };
 		8262C1592876945B00276626 /* DataLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataLoader.swift; sourceTree = "<group>"; };
 		8262C15A2876945B00276626 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
-		8262C15D2876971300276626 /* List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = List.swift; sourceTree = "<group>"; };
 		8262C16028769B2500276626 /* theOlds.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = theOlds.json; sourceTree = "<group>"; };
 		8262C16328769B9700276626 /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		8262C1652876A04D00276626 /* CircleImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		8262C16728771AF200276626 /* UserListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,13 +110,13 @@
 			children = (
 				8262C16228769B8B00276626 /* Supporting View */,
 				8262C15F28769B0700276626 /* Resource */,
-				8262C15D2876971300276626 /* List.swift */,
 				8262C1582876945000276626 /* Model */,
 				8262C151287683A600276626 /* UserProfileView.swift */,
 				8262C121287682B300276626 /* FiveApp.swift */,
 				8262C125287682B400276626 /* Assets.xcassets */,
 				8262C127287682B400276626 /* Preview Content */,
 				8262C1552876843100276626 /* UserCardView.swift */,
+				8262C16728771AF200276626 /* UserListView.swift */,
 			);
 			path = Five;
 			sourceTree = "<group>";
@@ -306,11 +306,11 @@
 				8262C16428769B9700276626 /* MapView.swift in Sources */,
 				8262C1662876A04D00276626 /* CircleImage.swift in Sources */,
 				8262C15C2876945B00276626 /* Person.swift in Sources */,
+				8262C16828771AF200276626 /* UserListView.swift in Sources */,
 				8262C15B2876945B00276626 /* DataLoader.swift in Sources */,
 				8262C1562876843100276626 /* UserCardView.swift in Sources */,
 				8262C152287683A600276626 /* UserProfileView.swift in Sources */,
 				8262C122287682B300276626 /* FiveApp.swift in Sources */,
-				8262C15E2876971300276626 /* List.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
