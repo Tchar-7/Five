@@ -6,8 +6,7 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        },
-        "todoList":["买菜","买药","生活物资"]
+        }
     },
     {
         "name": "李四",
@@ -16,8 +15,7 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        }，
-        "isFinished":1
+        }
     },
     {
         "name": "王五",
@@ -26,8 +24,7 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        },
-        "isFinished":1
+        }
     },
     {
         "name": "赵六",
@@ -36,8 +33,7 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        },
-        "isFinished":1
+        }
     },
     {
         "name": "宋七",
@@ -46,7 +42,6 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        },
-        "isFinished":1
+        }
     },
 ]

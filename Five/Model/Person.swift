@@ -12,7 +12,6 @@ struct Person: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
     var updateTime: String
-    var isFinished: Int
     
     fileprivate var coordinates: Coordinates
     var locationCoordinate: CLLocationCoordinate2D {

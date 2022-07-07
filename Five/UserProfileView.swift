@@ -19,9 +19,9 @@ struct UserProfileView: View {
     }
     var body: some View {
         VStack {
-            MapView(coordinate: person.locationCoordinate)
-                .edgesIgnoringSafeArea(.top)
-                .frame(height: 300)
+//            MapView(coordinate: person.locationCoordinate)
+//                .edgesIgnoringSafeArea(.top)
+//                .frame(height: 300)
             HStack {
                 Button {
                     contact()
@@ -95,8 +95,6 @@ struct UserProfileView: View {
             } label: {
                 Text("联系")
             }.padding(.bottom).buttonStyle(MyButtonStyle()).shadow(radius: 8)
-
-           
         }
     
        
