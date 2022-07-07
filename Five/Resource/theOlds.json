@@ -16,7 +16,8 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        }
+        }，
+        "isFinished":1
     },
     {
         "name": "王五",
@@ -26,6 +27,7 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
+        "isFinished":1
     },
     {
         "name": "赵六",
@@ -34,7 +36,8 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        }
+        },
+        "isFinished":1
     },
     {
         "name": "宋七",
@@ -43,6 +46,7 @@
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
-        }
+        },
+        "isFinished":1
     },
 ]
